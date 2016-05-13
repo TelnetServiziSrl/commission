@@ -31,6 +31,7 @@
         "Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>",
         "Oihane Crucelaegui <oihanecruce@gmail.com>",
         "Iván Todorovich <ivan.todorovich@gmail.com",
+        "Massimo Bianchi <bianchi.massimo@gmail.com"
     ],
     "data": [
         "security/ir.model.access.csv",
@@ -50,5 +51,5 @@
     'test': [
         'test/sale_commission_demo.yml',
     ],
-    'installable': False
+    'installable': True
 }
